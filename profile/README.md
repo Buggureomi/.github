@@ -53,7 +53,7 @@
     </td>
     <td>
         <a href="https://github.com/sonshn">
-            <img src="https://avatars.githubusercontent.com/u/42714724?v=4" width="100px" />
+            <img src="https://avatars.githubusercontent.com/u/55887179?s=96&v=4" width="100px" />
         </a>
     </td>
     <td>
