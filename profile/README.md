@@ -46,7 +46,7 @@
 
 
 ## ⚒️ 기술 스택
-<img width="814" alt="스크린샷 2024-12-09 오후 6 20 05" src="https://github.com/user-attachments/assets/9bace6bd-c10b-4f02-9f4d-d3adfb63958c">
+<img width="814" alt="기술스택" src="https://github.com/user-attachments/assets/e4d07ad6-08cc-4f19-8a84-1cd8d6ce22bc">
 
 <br>
 <br>
