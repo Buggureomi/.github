@@ -15,5 +15,17 @@
 <br>
 
 
-## Tech Stacks
+## ⚒️ Tech Stacks
 <img width="814" alt="스크린샷 2024-12-09 오후 6 20 05" src="https://github.com/user-attachments/assets/9bace6bd-c10b-4f02-9f4d-d3adfb63958c">
+
+<br>
+<br>
+
+## 🗓️ 스프린트 일정
+1차 스프린트 기간 : 2024-12-03 ~ 2024-12-09
+![image](https://github.com/user-attachments/assets/79c9c112-0c8f-4ea1-a80e-00b4a9a26f5b)
+
+<br>
+
+
+
