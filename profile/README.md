@@ -20,12 +20,79 @@
 
 <br>
 <br>
+<br>
 
 ## 🗓️ 스프린트 일정
 1차 스프린트 기간 : 2024-12-03 ~ 2024-12-09
 ![image](https://github.com/user-attachments/assets/79c9c112-0c8f-4ea1-a80e-00b4a9a26f5b)
 
-<br>
 
+## 🐟 우럭즈 팀
+### 팀원 소개
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/sonshn">
+            <img src="https://avatars.githubusercontent.com/u/70426440?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/Jeong-jj">
+            <img src="https://avatars.githubusercontent.com/u/96231175?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/confidential-nt">
+            <img src="https://avatars.githubusercontent.com/u/54153087?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/s2oy">
+            <img src="https://avatars.githubusercontent.com/u/74308793?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/sonshn">
+            <img src="https://avatars.githubusercontent.com/u/42714724?v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/itsjustsora">
+            <img src="https://avatars.githubusercontent.com/u/80027033?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/H8bubble">
+            <img src="https://avatars.githubusercontent.com/u/138587585?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/daeya0406">
+            <img src="https://avatars.githubusercontent.com/u/190901567?v=4" width="100px" />
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>시고</b></td>
+    <td><b>티제이</b></td>
+    <td><b>파크</b></td>
+    <td><b>쏘이</b></td>
+    <td><b>벤티</b></td>
+    <td><b>우주</b></td>
+    <td><b>쿠리</b></td>
+    <td><b>대야</b></td>
+  </tr>
+<tr>
+    <td><b>프론트엔드</b></td>
+    <td><b>프론트엔드</b></td>
+    <td><b>프론트엔드</b></td>
+    <td><b>프론트엔드</b></td>
+    <td><b>백엔드</b></td>
+    <td><b>백엔드</b></td>
+    <td><b>백엔드</b></td>
+    <td><b>디자이너</b></td>
+  </tr>
+</table>
+<br>
 
 
