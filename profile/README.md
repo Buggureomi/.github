@@ -14,7 +14,6 @@
 
 <br>
 
-## Tech Stacks
-### Back-end
 
-<img src="https://github.com/user-attachments/assets/4f002c7a-e277-4041-83d4-de71f4fc2533" width="550" />
+## Tech Stacks
+<img width="814" alt="스크린샷 2024-12-09 오후 6 20 05" src="https://github.com/user-attachments/assets/9bace6bd-c10b-4f02-9f4d-d3adfb63958c">
