@@ -24,7 +24,8 @@
 
 ## 🗓️ 스프린트 일정
 1차 스프린트 기간 : 2024-12-03 ~ 2024-12-09
-![image](https://github.com/user-attachments/assets/79c9c112-0c8f-4ea1-a80e-00b4a9a26f5b)
+
+![스크린샷 2024-12-09 오후 7 44 28](https://github.com/user-attachments/assets/33a0bcd1-cbb7-4e5d-8fdf-e33eb13cd02f)
 
 
 ## 🐟 우럭즈 팀
@@ -94,5 +95,9 @@
   </tr>
 </table>
 <br>
+<br>
+
+### Ground Rule - 우리는 이렇게 일해요!
+![스크린샷 2024-12-09 오후 7 41 52](https://github.com/user-attachments/assets/4439266a-9491-4bc6-8988-d66986b03ba7)
 
 
