@@ -10,7 +10,11 @@
 
 직접 묻기 부끄러울 때 우리가 당신만의 꾸러미가 되어드릴게요.
 
-
 </div>
 
+<br>
 
+## Tech Stacks
+### Back-end
+
+<img src="https://github.com/user-attachments/assets/4f002c7a-e277-4041-83d4-de71f4fc2533" width="550" />
