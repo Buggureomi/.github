@@ -172,7 +172,7 @@
     </tr>
     <tr>
       <td colspan="3">
-      3. 메인
+        3. 메인
       </td>
     </tr>
     <tr>
@@ -202,7 +202,7 @@
     </tr>
     <tr>
       <td colspan="3">
-      4. 메시지 작성하기
+        4. 메시지 작성하기
       </td>
     </tr>
     <tr>
@@ -228,7 +228,7 @@
     </tr>
     <tr>
       <td colspan="3">
-      5. 메시지 확인하기
+        5. 메시지 확인하기
       </td>
     </tr>
     <tr>
@@ -244,6 +244,27 @@
           <br>
           <b>2️⃣ 삭제</b>
           <p>선택한 메시지를 삭제할 수 있다.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        6. 유저 정보 수정
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="position: relative; padding: 10px;">
+        <div style="display: flex; gap: 10px;">
+          <img src="https://github.com/user-attachments/assets/036eeec7-be7b-451a-b3e3-286d693d31c1" width="280" height="470"/>
+        </div>
+      </td>
+      <td>
+        <div>
+          <b>1️⃣ 닉네임</b>
+          <p>유저의 닉네임을 수정할 수 있다.</p>
+          <br>
+          <b>2️⃣ 설정 옵션</b>
+          <p>구슬 개수 공개/로그인한 유저만 답변 가능/받은 구슬 공개 여부를 수정할 수 있다.</p>
         </div>
       </td>
     </tr>
