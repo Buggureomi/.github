@@ -2,19 +2,15 @@
 
 ### 🎁 미처 못한 질문을 전해봐요, 부꾸러미
 
-<img src="https://github.com/user-attachments/assets/bc08b5eb-2fdd-4b3c-ba95-d58e5ca47b11" alt="main mascot" width="200" />
+<br/>
 
+<img src="https://github.com/user-attachments/assets/bc08b5eb-2fdd-4b3c-ba95-d58e5ca47b11" alt="main mascot" width="150" />
+
+<br/>
 <br/>
 
 여러분은 주위 사람들에게 내가 어떤 사람이었는지 궁금하지 않으신가요?  
 혹은 주변에 미처 물어보지 못한 질문이 있진 않으신가요?
-
-**"나는 너에게 어떤 사람이야?"**  
-**"나랑 함께한 가장 즐거운 시간은 언제였어?"**  
-**"나한테 혹시 전하지 못한 말이 있을까?"**  
-
-질문을 보따리에 적어주시면 우리 보따리 배달부 부끄🐻가 전달해드릴게요!  
-보따리에 담긴 답변 구슬은 여러분에게 이쁜 눈송이가 되어 내릴거에요!
 
 직접 묻기 부끄러울 때 우리가 당신만의 꾸러미가 되어드릴게요.
 
@@ -26,12 +22,20 @@
 ### 질문을 전달해 드릴게요!
 
 부끄러미는 **'부끄럽다'** 의 `'부끄'`와 **'꾸러미'** 의 `'러미'`의 합성어입니다.  
-직접 하기 어려운 부끄러운 질문들과 답변들을 꾸러미에 담아준다는 의미에요!  
+직접 하기 어려운 부끄러운 질문들과 답변들을 꾸러미에 담아준다는 의미예요! 
 
-그리고 이 질문 보따리는 **북극곰 부끄**가 배달하게 된답니다!
+<br>
+
+**"나는 너에게 어떤 사람이야?"**  
+**"나랑 함께한 가장 즐거운 시간은 언제였어?"**  
+**"나한테 혹시 전하지 못한 말이 있을까?"**  
+
+<br>
+
+질문을 보따리에 적어주시면 우리 보따리 배달부 부꾸가 배달하게 된답니다.  
 
 간단한 생성과 공유를 통해 주변에 미처 못한 질문을 전달하고 답변을 받아보세요!  
-보따리에 담긴 구슬은 아름다운 색색깔 눈송이가 되어 내릴거에요~!
+보따리에 담긴 구슬은 아름다운 색색깔 눈송이가 되어 내릴 거예요.
 
 나만의 부꾸러미를 만들러 가볼까요?
 
@@ -51,7 +55,6 @@
 - 2차 추가 개발 기간: 2024-12-10 ~ 2025-01-13
 
 ![스프린트](https://github.com/user-attachments/assets/63700f5e-4ca2-4053-bcb3-0bdd6a12823f)
-
 
 ## 🐟 우럭즈 팀
 ### 팀원 소개
@@ -119,6 +122,134 @@
     <td><b>디자이너</b></td>
   </tr>
 </table>
+<br>
+<br>
+
+### 서비스 기능 소개
+<div>
+  <table>
+    <tr>
+      <td colspan="3">
+          1. Intro
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="position: relative; padding: 10px;">
+        <div style="display: flex; gap: 10px;">
+          <img src="https://github.com/user-attachments/assets/3aede00a-b8b9-477d-809d-8c9e3d4586f9" width="280" height="470" alt="로그인" />
+          <img  src="https://github.com/user-attachments/assets/c47855ba-fe3b-4bcb-a61a-7a4d9fe5676d" height="470" alt="구글폼" />
+        </div>
+      </td>
+      <td>
+        <div>
+          <b>1️⃣ 로그인</b>
+          <p>카카오 소셜 로그인을 통해 회원가입과 로그인을 할 수 있다.</p>
+          <br>
+          <b>2️⃣ 문의하기</b>
+          <p>사용자가 구글폼을 통해 서비스에 대한 의견을 남길 수 있다.</p>
+          <br>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        2. 질문 생성하기
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="position: relative; padding: 10px;">
+        <div style="display: flex; gap: 10px;"></div>
+      </td>
+      <td>
+        <div>
+          <b>1️⃣ 랜덤 질문 선택하기</b>
+          <p>카카오 소셜 로그인을 통해 회원가입과 로그인을 할 수 있다.</p>
+          <br>
+          <b>2️⃣ 직접 작성하기</b>
+          <p>사용자가 구글폼을 통해 서비스에 대한 의견을 남길 수 있다.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+      3. 메인
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="position: relative; padding: 10px;">
+        <div style="display: flex; gap: 10px;">
+          <img src="https://github.com/user-attachments/assets/fbbd612c-f1f9-4046-8cc7-cc0d5d99c8ab" width="280" height="470" alt="보따리 및 메시지 조회"/>
+          <img src="https://github.com/user-attachments/assets/1f1de1e4-5531-4885-a7b5-7e51ff2bee5d" width="280" height="470" alt="열어보기"/>
+          <img src="https://github.com/user-attachments/assets/35ff4aca-d15f-43b6-bad2-59752a22c1d2" width="280" height="470" alt="나 돌아보기"/>
+          <img src="https://github.com/user-attachments/assets/ec806f21-6848-430f-ad33-4708680ae50f" width="280" height="470" alt="링크 공유"/>
+      </td>
+      <td>
+        <div>
+          <b>1️⃣ 보따리 및 메시지 조회</b>
+          <p>- 사용자가 선택한 질문과 나의 질문에 남겨진 메시지를 랜덤으로 확인할 수 있다.</p>
+          <p>- 메시지와 함께 남겨진 구슬 색상을 눈의 색으로 확인할 수 있다.</p>
+          <br>
+          <b>2️⃣ 목록 조회 </b>
+          <p>나의 질문에 남겨진 메시지 목록을 조회할 수 있다.</p>
+          <br>
+          <b>2️⃣ 나 돌아보기 </b>
+          <p>나 자신에 대한 질문에 답변을 남길 수 있다.</p>
+          <br>
+          <b>2️⃣ 링크 공유 </b>
+          <p>설정 옵션과 닉네임을 수정할 수 있다.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+      4. 메시지 작성하기
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="position: relative; padding: 10px;">
+        <div style="display: flex; gap: 10px;">
+          <img src="https://github.com/user-attachments/assets/49b603da-c129-47a5-a3cd-53a547c7205a" width="280" height="470" alt="로딩 및 보따리와 구슬 알기" />
+          <img src="https://github.com/user-attachments/assets/8b49f3d4-01df-40df-b5bd-9884754220f9" width="280" height="470" alt="메시지 작성" />
+        </div>
+      </td>
+      <td>
+        <div>
+          <b>1️⃣ 서비스 컨셉 설명</b>
+          <p>보따리와 구슬의 의미를 알려준다.</p>
+          <br>
+          <b>1️⃣ 메시지 작성</b>
+          <p>- 질문 작성자에게 어울리는 구슬의 색상을 선택할 수 있다.</p>
+          <p>- 질문에 대한 메시지를 남길 수 있다.</p>
+          <br>
+          <b>2️⃣ 메시지 목록 조회</b>
+          <p>해당 질문에 대해 다른 사용자가 남긴 메시지 목록을 조회할 수 있다.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">
+      5. 메시지 확인하기
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="position: relative; padding: 10px;">
+        <div style="display: flex; gap: 10px;">
+          <img src="https://github.com/user-attachments/assets/b1027aff-389f-494b-8a65-1a19bc0c058f" width="280" height="470"/>
+        </div>
+      </td>
+      <td>
+        <div>
+          <b>1️⃣ 선택 조회</b>
+          <p>선택한 메시지 목록을 조회할 수 있다.</p>
+          <br>
+          <b>2️⃣ 삭제</b>
+          <p>선택한 메시지를 삭제할 수 있다.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br>
 <br>
 
