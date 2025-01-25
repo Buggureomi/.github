@@ -9,6 +9,12 @@
 <br/>
 <br/>
 
+**"나는 너에게 어떤 사람이야?"**  
+**"나랑 함께한 가장 즐거운 시간은 언제였어?"**  
+**"나한테 혹시 전하지 못한 말이 있을까?"**  
+
+<br>
+
 여러분은 주위 사람들에게 내가 어떤 사람이었는지 궁금하지 않으신가요?  
 혹은 주변에 미처 물어보지 못한 질문이 있진 않으신가요?
 
@@ -21,16 +27,12 @@
 ## ❄️ 프로젝트 소개
 ### 질문을 전달해 드릴게요!
 
+<img src="https://github.com/user-attachments/assets/5745d782-73f4-4fe5-8209-3c83d54eb571" width="400" >
+
+<br>
+
 부끄러미는 **'부끄럽다'** 의 `'부끄'`와 **'꾸러미'** 의 `'러미'`의 합성어입니다.  
 직접 하기 어려운 부끄러운 질문들과 답변들을 꾸러미에 담아준다는 의미예요! 
-
-<br>
-
-**"나는 너에게 어떤 사람이야?"**  
-**"나랑 함께한 가장 즐거운 시간은 언제였어?"**  
-**"나한테 혹시 전하지 못한 말이 있을까?"**  
-
-<br>
 
 질문을 보따리에 적어주시면 우리 보따리 배달부 부꾸가 배달하게 된답니다.  
 
@@ -56,76 +58,7 @@
 
 ![스프린트](https://github.com/user-attachments/assets/63700f5e-4ca2-4053-bcb3-0bdd6a12823f)
 
-## 🐟 우럭즈 팀
-### 팀원 소개
-<table>
-  <tr>
-    <td>
-        <a href="https://github.com/hyjoong">
-            <img src="https://avatars.githubusercontent.com/u/70426440?s=96&v=4" width="100px" />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/Jeong-jj">
-            <img src="https://avatars.githubusercontent.com/u/96231175?s=96&v=4" width="100px" />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/confidential-nt">
-            <img src="https://avatars.githubusercontent.com/u/54153087?s=96&v=4" width="100px" />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/s2oy">
-            <img src="https://avatars.githubusercontent.com/u/74308793?s=96&v=4" width="100px" />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/sonshn">
-            <img src="https://avatars.githubusercontent.com/u/55887179?s=96&v=4" width="100px" />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/itsjustsora">
-            <img src="https://avatars.githubusercontent.com/u/80027033?s=96&v=4" width="100px" />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/H8bubble">
-            <img src="https://avatars.githubusercontent.com/u/138587585?s=96&v=4" width="100px" />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/daeya0406">
-            <img src="https://avatars.githubusercontent.com/u/190901567?v=4" width="100px" />
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>시고</b></td>
-    <td><b>티제이</b></td>
-    <td><b>파크</b></td>
-    <td><b>쏘이</b></td>
-    <td><b>벤티</b></td>
-    <td><b>우주</b></td>
-    <td><b>쿠리</b></td>
-    <td><b>대야</b></td>
-  </tr>
-<tr>
-    <td><b>프론트엔드</b></td>
-    <td><b>프론트엔드</b></td>
-    <td><b>프론트엔드</b></td>
-    <td><b>프론트엔드</b></td>
-    <td><b>백엔드</b></td>
-    <td><b>백엔드</b></td>
-    <td><b>백엔드</b></td>
-    <td><b>디자이너</b></td>
-  </tr>
-</table>
-<br>
-<br>
-
-### 서비스 기능 소개
+## 🐻‍❄️ 서비스 기능 소개
 <div>
   <table>
     <tr>
@@ -285,6 +218,78 @@
 </div>
 
 <br>
+<br>
+<br>
+
+## 🐟 우럭즈 팀
+### 팀원 소개
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/hyjoong">
+            <img src="https://avatars.githubusercontent.com/u/70426440?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/Jeong-jj">
+            <img src="https://avatars.githubusercontent.com/u/96231175?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/confidential-nt">
+            <img src="https://avatars.githubusercontent.com/u/54153087?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/s2oy">
+            <img src="https://avatars.githubusercontent.com/u/74308793?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/sonshn">
+            <img src="https://avatars.githubusercontent.com/u/55887179?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/itsjustsora">
+            <img src="https://avatars.githubusercontent.com/u/80027033?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/H8bubble">
+            <img src="https://avatars.githubusercontent.com/u/138587585?s=96&v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/daeya0406">
+            <img src="https://avatars.githubusercontent.com/u/190901567?v=4" width="100px" />
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>시고</b></td>
+    <td><b>티제이</b></td>
+    <td><b>파크</b></td>
+    <td><b>쏘이</b></td>
+    <td><b>벤티</b></td>
+    <td><b>우주</b></td>
+    <td><b>쿠리</b></td>
+    <td><b>대야</b></td>
+  </tr>
+<tr>
+    <td><b>프론트엔드</b></td>
+    <td><b>프론트엔드</b></td>
+    <td><b>프론트엔드</b></td>
+    <td><b>프론트엔드</b></td>
+    <td><b>백엔드</b></td>
+    <td><b>백엔드</b></td>
+    <td><b>백엔드</b></td>
+    <td><b>디자이너</b></td>
+  </tr>
+</table>
+<br>
+<br>
+
 <br>
 
 ### Ground Rule - 우리는 이렇게 일해요!
